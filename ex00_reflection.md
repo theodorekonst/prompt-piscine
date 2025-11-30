@@ -16,4 +16,4 @@ Right now, I’m trying to become Learner B. I try to use AI as a learning ampli
 
 3.
 
-Today, I’m at the beginning of my coding journey. I’ve learned that overusing AI doesn’t help me at all. Growth, learning, and understanding come from my own practice and effort. Ideally, AI should play the role of a teacher. By using it, I want to be able to learn everything by studying effectively
+Today, I’m at the beginning of my coding journey. I’ve learned that overusing AI doesn’t help me at all. Growth, learning, and understanding come from my own practice and effort. Ideally, AI should play the role of a teacher. By using it, I want to be able to learn everything by studying effectively.
